@@ -1,5 +1,5 @@
 # React-JS---Recipe-Sharing-Platform
-
+# National Election Day Sunday 10th November 2024
 # Recipe Sharing Platform
 
 A simple Recipe Sharing Platform built with React, allowing users to browse, add, edit, and save favorite recipes. This platform demonstrates React fundamentals, including component structuring, state management, routing, and form handling.
